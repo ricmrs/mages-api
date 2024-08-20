@@ -2,121 +2,145 @@ export default [
     {
         "name": "Fireball",
         "description": "Uma poderosa esfera de fogo que explode ao impacto, causando grandes danos em uma área.",
-        "type": "Fogo"
+        "type": "Fogo",
+        "index": 0,
     },
     {
         "name": "Flame Wall",
         "description": "Cria uma barreira de chamas que bloqueia inimigos e causa dano contínuo aos que tentam atravessá-la.",
-        "type": "Fogo"
+        "type": "Fogo",
+        "index": 1,
     },
     {
         "name": "Magma Burst",
         "description": "Libera uma onda de magma do solo, incinerando tudo em seu caminho.",
-        "type": "Fogo"
+        "type": "Fogo",
+        "index": 2,
     },
     {
         "name": "Inferno",
         "description": "Cria uma coluna de fogo intenso que queima tudo ao seu redor, causando dano massivo.",
-        "type": "Fogo"
+        "type": "Fogo",
+        "index": 3,
     },
     {
         "name": "Phoenix Flame",
         "description": "Invoca chamas com propriedades curativas, que também queimam inimigos próximos.",
-        "type": "Fogo"
+        "type": "Fogo",
+        "index": 4,
     },
     {
         "name": "Heat Wave",
         "description": "Emite uma onda de calor extremo que desidrata e enfraquece os inimigos ao longo do tempo.",
-        "type": "Fogo"
+        "type": "Fogo",
+        "index": 5,
     },
     {
         "name": "Earthquake",
         "description": "Causa um tremor devastador que danifica e desestabiliza estruturas e inimigos na área.",
-        "type": "Terra"
+        "type": "Terra",
+        "index": 6,
     },
     {
         "name": "Stone Skin",
         "description": "Transforma a pele do alvo em pedra, aumentando drasticamente sua defesa física.",
-        "type": "Terra"
+        "type": "Terra",
+        "index": 7,
     },
     {
         "name": "Rockslide",
         "description": "Invoca uma avalanche de rochas que desce de uma altura, esmagando os inimigos.",
-        "type": "Terra"
+        "type": "Terra",
+        "index": 8,
     },
     {
         "name": "Quicksand",
         "description": "Cria uma área de areia movediça que aprisiona e afunda qualquer um que entrar nela.",
-        "type": "Terra"
+        "type": "Terra",
+        "index": 9,
     },
     {
         "name": "Boulder Throw",
         "description": "Lança um grande pedregulho contra o inimigo, causando dano massivo por impacto.",
-        "type": "Terra"
+        "type": "Terra",
+        "index": 10,
     },
     {
         "name": "Gaia's Grasp",
         "description": "Faz com que raízes e videiras emergem do solo, prendendo e sufocando inimigos.",
-        "type": "Terra"
+        "type": "Terra",
+        "index": 11,
     },
     {
         "name": "Water Shield",
         "description": "Cria uma barreira de água ao redor do conjurador, absorvendo uma quantidade significativa de dano.",
-        "type": "Água"
+        "type": "Água",
+        "index": 12,
     },
     {
         "name": "Tidal Wave",
         "description": "Invoca uma enorme onda que varre inimigos, causando dano e empurrando-os para trás.",
-        "type": "Água"
+        "type": "Água",
+        "index": 13,
     },
     {
         "name": "Ice Spear",
         "description": "Cria uma lança de gelo que é lançada contra o inimigo, perfurando e congelando-o.",
-        "type": "Água"
+        "type": "Água",
+        "index": 14,
     },
     {
         "name": "Frostbite",
         "description": "Congela os inimigos ao redor, reduzindo sua velocidade de movimento e causando dano ao longo do tempo.",
-        "type": "Água"
+        "type": "Água",
+        "index": 15,
     },
     {
         "name": "Hydro Blast",
         "description": "Dispara um jato concentrado de água com força suficiente para perfurar até mesmo a armadura mais resistente.",
-        "type": "Água"
+        "type": "Água",
+        "index": 16,
     },
     {
         "name": "Healing Rain",
         "description": "Invoca uma chuva suave que cura aliados dentro da área afetada ao longo do tempo.",
-        "type": "Água"
+        "type": "Água",
+        "index": 17,
     },
     {
         "name": "Gale Force",
         "description": "Invoca uma poderosa rajada de vento que derruba inimigos e objetos em seu caminho.",
-        "type": "Ar"
+        "type": "Ar",
+        "index": 18,
     },
     {
         "name": "Air Slash",
         "description": "Corta o ar com uma lâmina invisível que atinge inimigos à distância com precisão e velocidade.",
-        "type": "Ar"
+        "type": "Ar",
+        "index": 19,
     },
     {
         "name": "Tornado",
         "description": "Cria um tornado que suga inimigos e objetos próximos, causando dano contínuo enquanto gira.",
-        "type": "Ar"
+        "type": "Ar",
+        "index": 20,
     },
     {
         "name": "Wind Barrier",
         "description": "Forma uma barreira de vento que desvia projéteis e empurra de volta qualquer um que se aproxime.",
-        "type": "Ar"
+        "type": "Ar",
+        "index": 21,
     },
     {
         "name": "Cyclone",
         "description": "Gera um ciclone de vento que arrasta inimigos para o alto, atirando-os de volta ao chão com grande força.",
-        "type": "Ar"
+        "type": "Ar",
+        "index": 22,
     },
     {
         "name": "Air Walk",
         "description": "Permite ao conjurador caminhar no ar, criando degraus invisíveis de vento.",
-        "type": "Ar"
+        "type": "Ar",
+        "index": 23
     }
 ]
