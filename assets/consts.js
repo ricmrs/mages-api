@@ -1,18 +1,28 @@
 export const routeTypes = {
     characters: {
-        searchBy: 'fullName',
+        searchBy: 'name',
         structure: {
-            'fullName': 'string',
-            'nickname': 'string',
-            'children': 'object',
+            'name': 'string',
+            'description': 'string',
+            'type': 'string',
             'image': 'string',
         }
     },
     spells: {
-        searchBy: 'spell',
+        searchBy: 'name',
         structure: {
-            'spell': 'string',
-            'use': 'string'
+            'name': 'string',
+            'description': 'string',
+            'type': 'string',
+        }
+    },
+    books: {
+        searchBy: 'title',
+        structure: {
+            'title': 'string',
+            'releaseDate': 'string',
+            'description': 'string',
+            'image': 'string',
         }
     }
 }
