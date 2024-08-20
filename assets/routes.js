@@ -55,7 +55,7 @@ export const routeStructure = async (req, res) => {
 
 export const homePage = (req, res) => {
     res.status(200).json({
-        message: 'descr.',
-        repo: 'rep',
+        message: 'The Mages API provides information about mages, spells, and books across different elemental types such as Fire, Earth, Water, and Air. The API allows users to retrieve detailed data on mages, spells, and books related to magic in a structured JSON format.',
+        repo: 'https://github.com/ricmrs/mages-api',
     })
 }
